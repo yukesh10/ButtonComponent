@@ -1,0 +1,28 @@
+.logo{
+    font-size: 13px;
+    line-height: 19px;
+    padding-top: 5vh;
+    text-align: center;
+    width: 100%;
+}
+
+.navMenu{
+    width: 100%;
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    color: #9E9E9E;
+}
+
+.navMenu li{
+    margin-bottom: 2vh;
+    cursor: pointer;
+}
+
+.navMenu li:hover{
+    text-decoration: underline;
+}
+
+.navMenuActive{
+    color: #090F31;
+}
